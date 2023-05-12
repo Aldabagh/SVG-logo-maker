@@ -8,9 +8,10 @@ Generate an SVG logo with your choice of shape (circle, square, or triangle), sh
 [![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)](https://jestjs.io/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 
+- below GIF file showing the functionality of the application.
+  ![](/examples/SVGmkir.gif)
 
-
-Watch a [video]() demonstration of the basic functionality:
+Watch a [video](https://watch.screencastify.com/v/ahVw4k1pipmm9AIvFTwq) demonstration of the basic functionality:
 
 
 
